@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there 👋, I'm Dishita Bhardwaj
 
-<!--
-**DishitaBhardwaj/DishitaBhardwaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science & Engineering (AI-ML) Student at UPES
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🌱 Currently learning Java, Data Structures & Algorithms, and AI/ML
+- 💻 Passionate about Software Development and Machine Learning
+- 🎯 Goal: Become a Software Engineer and AI/ML Engineer
+- 📚 Solving coding problems regularly on LeetCode
+- 🔨 Building projects to improve my development skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- Java
+- Python
+- C
+- MySQL
+- Git & GitHub
+
+## 📚 Currently Studying
+- Operating Systems
+- Data Communication & Networks
+- Computer Organization & Architecture
+- Design & Analysis of Algorithms
+
+## 📫 Connect With Me
+- LinkedIn: www.linkedin.com/in/dishita-bhardwaj-a84323412
