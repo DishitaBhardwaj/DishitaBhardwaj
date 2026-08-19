@@ -16,11 +16,6 @@
 - MySQL
 - Git & GitHub
 
-## 📚 Currently Studying
-- Operating Systems
-- Data Communication & Networks
-- Computer Organization & Architecture
-- Design & Analysis of Algorithms
 
 ## 📫 Connect With Me
 - LinkedIn: www.linkedin.com/in/dishita-bhardwaj-a84323412
